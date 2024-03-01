@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(180, 162, 162);
+}
+
+#titulo {
+    font-size: 50px;
+    font-family: Arial;
+    font-style: normal;
+    color: rgb(0, 0, 0);
+}
+#camera {
+    width: 500px;
+    height: 400px;
+    border-color: darkred;
+}
+img {
+    width: 1000px;
+    height: 800px;
+    border-radius: 4px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+.column 
+{display:inline;
+padding: 10px;
+}
+img:hover{
+    border-radius: 140px;
+}
